@@ -1,0 +1,4 @@
+/home/zack/h1_inspire_service/build/CMakeFiles/rebuild_cache.dir
+/home/zack/h1_inspire_service/build/CMakeFiles/edit_cache.dir
+/home/zack/h1_inspire_service/build/CMakeFiles/h1_hand_example.dir
+/home/zack/h1_inspire_service/build/CMakeFiles/inspire_hand.dir

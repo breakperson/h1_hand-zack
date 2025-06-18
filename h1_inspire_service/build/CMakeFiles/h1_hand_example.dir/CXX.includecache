@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zack/h1_inspire_service/example/h1_hand_example.cpp
+unitree/idl/go2/MotorCmds_.hpp
+-
+unitree/idl/go2/MotorStates_.hpp
+-
+unitree/robot/channel/channel_publisher.hpp
+-
+unitree/robot/channel/channel_subscriber.hpp
+-
+unitree/common/thread/thread.hpp
+-
+eigen3/Eigen/Dense
+-
+unordered_map
+-
+
